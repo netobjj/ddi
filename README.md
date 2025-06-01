@@ -1,6 +1,6 @@
 # DDI Países com Bandeira
 
-*Atenção, os DDI (Discagem Direta Internacional) podem repetir para mais de um país. Exemplo: Canadá e Estados Unidos
+*Atenção, os DDI (Discagem Direta Internacional) podem repetir para mais de um país. Exemplo: Canadá e Estados Unidos (Veja o código abaixo)
 
 ### DATA JSON
 ```json
